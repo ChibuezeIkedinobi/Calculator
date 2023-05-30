@@ -46,7 +46,6 @@ public class Main {
                 scanner.nextLine(); // Clear the input buffer
                 continue;
             }
-
             double result = 0;
 
             switch (operation) {
